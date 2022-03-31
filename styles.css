@@ -1,0 +1,407 @@
+
+ 
+ body {
+  margin: 0;
+  padding: 0;
+ }
+ 
+ #background 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: relative; 
+	 margin-left: auto; 
+	 margin-right: auto; 
+	 width: 1080px;
+	 height: 1524px; 
+	 overflow: hidden;
+	 z-index:0;
+	} 
+
+ #Camada0 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: absolute; 
+	 width: 1080px;
+	 height: 1597px;
+	 z-index:1;
+} 
+
+ #Camada11 
+{ 
+	 left: 702px; 
+	 top: 1009px; 
+	 position: absolute; 
+	 width: 378px;
+	 height: 515px;
+	 z-index:2;
+} 
+
+ #Camada7 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: absolute; 
+	 width: 1080px;
+	 height: 983px;
+	 z-index:3;
+} 
+
+ #RetnguloArredondado2 
+{ 
+	 left: -1px; 
+	 top: -61px; 
+	 position: absolute; 
+	 width: 1082px;
+	 height: 836px;
+	 z-index:4;
+} 
+
+ #RetnguloArredondado1 
+{ 
+	 left: 531px; 
+	 top: -61px; 
+	 position: absolute; 
+	 width: 581px;
+	 height: 922px;
+	 z-index:5;
+} 
+
+ #WhatsAppImage2022032 
+{ 
+	 left: 506px; 
+	 top: -177px; 
+	 position: absolute; 
+	 width: 634px;
+	 height: 951px;
+	 z-index:6;
+} 
+
+ #Camada1 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: absolute; 
+	 width: 1008px;
+	 height: 983px;
+	 z-index:7;
+} 
+
+ #Camada2 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: absolute; 
+	 width: 264px;
+	 height: 270px;
+	 z-index:8;
+} 
+
+ #Camada3 
+{ 
+	 left: 0px; 
+	 top: 492px; 
+	 position: absolute; 
+	 width: 588px;
+	 height: 491px;
+	 z-index:9;
+} 
+
+ #Camada5 
+{ 
+	 left: 239px; 
+	 top: 0px; 
+	 position: absolute; 
+	 width: 841px;
+	 height: 865px;
+	 z-index:10;
+} 
+
+ #Camada6 
+{ 
+	 left: 342px; 
+	 top: 237px; 
+	 position: absolute; 
+	 width: 738px;
+	 height: 746px;
+	 z-index:11;
+} 
+
+ #pngegg4 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: absolute; 
+	 width: 713px;
+	 height: 978px;
+	 z-index:9;
+} 
+
+ #RetnguloArredondado3 
+{ 
+	 left: 42px; 
+	 top: 480px; 
+	 position: absolute; 
+	 width: 448px;
+	 height: 57px;
+	 z-index:13;
+} 
+
+ #RetnguloArredondado3_0 
+{ 
+	 left: 42px; 
+	 top: 552px; 
+	 position: absolute; 
+	 width: 448px;
+	 height: 57px;
+	 z-index:14;
+} 
+
+ #QUERESCALARASVENDASD 
+{ 
+	 left: 44px; 
+	 top: 174px; 
+	 position: absolute; 
+	 width: 666px;
+	 height: 206px;
+	 z-index:15;
+} 
+
+ #RAFAELBRANDO 
+{ 
+	 left: 430px; 
+	 top: 950px; 
+	 position: absolute; 
+	 width: 393px;
+	 height: 39px;
+	 z-index:16;
+} 
+
+ #PrazersouoRafaelem20 
+{ 
+	 left: 432px; 
+	 top: 1044px; 
+	 position: absolute; 
+	 width: 624px;
+	 height: 188px;
+	 z-index:17;
+} 
+
+ #brandaoo 
+{ 
+	 left: 429px; 
+	 top: 998px; 
+	 position: absolute; 
+	 width: 131px;
+	 height: 22px;
+	 z-index:18;
+} 
+
+ #Descubracomo 
+{ 
+	 left: 51px; 
+	 top: 398px; 
+	 position: absolute; 
+	 width: 223px;
+	 height: 22px;
+	 z-index:19;
+} 
+
+ #WhatsApp 
+{ 
+	 left: 69px; 
+	 top: 498px; 
+	 position: absolute; 
+	 width: 138px;
+	 height: 26px;
+	 z-index:20;
+} 
+
+ #Seumelhoremail 
+{ 
+	 left: 71px; 
+	 top: 568px; 
+	 position: absolute; 
+	 width: 235px;
+	 height: 22px;
+	 z-index:21;
+} 
+
+ #Camada4 
+{ 
+	 left: 23px; 
+	 top: 693px; 
+	 position: absolute; 
+	 width: 284px;
+	 height: 33px;
+	 z-index:22;
+} 
+
+ #RetnguloArredondado4 
+{ 
+	 left: 46px; 
+	 top: 639px; 
+	 position: absolute; 
+	 width: 237px;
+	 height: 59px;
+	 z-index:23;
+} 
+
+ #RetnguloArredondado4_0 
+{ 
+	 left: 427px; 
+	 top: 1262px; 
+	 position: absolute; 
+	 width: 366px;
+	 height: 59px;
+	 z-index:24;
+} 
+
+ #EUQUERO 
+{ 
+	 left: 66px; 
+	 top: 656px; 
+	 position: absolute; 
+	 width: 200px;
+	 height: 31px;
+	 z-index:25;
+} 
+
+ #Gostariadeumoramento 
+{ 
+	 left: 447px; 
+	 top: 1280px; 
+	 position: absolute; 
+	 width: 329px;
+	 height: 25px;
+	 z-index:26;
+} 
+
+ #Elipse2 
+{ 
+	 left: 47px; 
+	 top: 961px; 
+	 position: absolute; 
+	 width: 335px;
+	 height: 335px;
+	 z-index:27;
+} 
+
+ #WhatsAppImage2022032_0 
+{ 
+	 left: 0px; 
+	 top: 963px; 
+	 position: absolute; 
+	 width: 498px;
+	 height: 332px;
+	 z-index:28;
+	 border-radius: 50%;
+} 
+
+ #Retngulo1 
+{ 
+	 left: -34px; 
+	 top: 1462px; 
+	 position: absolute; 
+	 width: 1136px;
+	 height: 70px;
+	 z-index:29;
+} 
+
+ #brandaoo_0 
+{ 
+	 left: 509px; 
+	 top: 1485px; 
+	 position: absolute; 
+	 width: 102px;
+	 height: 18px;
+	 z-index:30;
+} 
+
+#foto_botton
+{
+  border-radius: 50%;
+  clip-path: circle(150px at center);
+  -webkit-clip-path: circle(150px at center);
+}
+
+#formulario
+{
+	left: 66px; 
+	top: 656px; 
+	position: absolute; 
+	width: 200px;
+	height: 31px;
+	z-index: 32;
+}
+
+
+
+/* Button used to open the contact form - fixed at the bottom of the page */
+.open-button {
+  background-color: #555;
+  color: white;
+  padding: 16px 20px;
+  border: none;
+  cursor: pointer;
+  opacity: 0.8;
+  position: fixed;
+  bottom: 23px;
+  right: 28px;
+  width: 280px;
+}
+
+/* The popup form - hidden by default */
+.form-popup {
+  display: none;
+  position: fixed;
+  bottom: 0;
+  right: 15px;
+  border: 3px solid #f1f1f1;
+  z-index: 35;
+}
+
+/* Add styles to the form container */
+.form-container {
+  max-width: 300px;
+  padding: 10px;
+  background-color: white;
+}
+
+/* Full-width input fields */
+.form-container input[type=text], .form-container input[type=password] {
+  width: 100%;
+  padding: 15px;
+  margin: 5px 0 22px 0;
+  border: none;
+  background: #f1f1f1;
+}
+
+/* When the inputs get focus, do something */
+.form-container input[type=text]:focus, .form-container input[type=password]:focus {
+  background-color: #ddd;
+  outline: none;
+}
+
+/* Set a style for the submit/login button */
+.form-container .btn {
+  background-color: #04AA6D;
+  color: white;
+  padding: 16px 20px;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+  margin-bottom:10px;
+  opacity: 0.8;
+}
+
+/* Add a red background color to the cancel button */
+.form-container .cancel {
+  background-color: red;
+}
+
+/* Add some hover effects to buttons */
+.form-container .btn:hover, .open-button:hover {
+  opacity: 1;
+}
