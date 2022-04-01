@@ -326,16 +326,56 @@
   -webkit-clip-path: circle(150px at center);
 }
 
-#formulario
+#formTopo
 {
 	left: 66px; 
-	top: 656px; 
+	top: 550px; 
 	position: absolute; 
 	width: 200px;
 	height: 31px;
 	z-index: 32;
 }
 
+input, textarea {
+    width: 400px;
+    padding: 10px;
+    color: black;
+    margin-left: 20px;
+    margin-top: 10px;
+    -webkit-border-radius: 50px;
+    -moz-border-radius: 5px;
+    border: 1px solid;
+}
+
+input textarea, input, textarea {
+    border-color: #8f8f8f;
+    
+    background-color: #a1a1a1;
+    color: rgb(253, 253, 253);
+    font-weight: bold;
+}
+
+input textarea:hover, input:focus, textarea:focus {
+    border-color: #000066;
+    
+    background-color: #b35f11;
+    color: rgb(253, 253, 253);
+    font-weight: bold;
+}
+
+.enviar {
+	
+    background-color: #b35f11;
+    height: 40px;
+    width: 200px;
+    font-weight: bold;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border: 0px solid;
+    color: rgb(255, 255, 255);
+	font-size: 20px;
+}
 
 
 /* Button used to open the contact form - fixed at the bottom of the page */
